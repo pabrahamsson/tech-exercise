@@ -11,7 +11,7 @@
 
     ![images/formatting-code-pb-api.png](images/formatting-code-pb-api-tab.png)
 
-    Then rerun the `formatting:format` maven command which will remove these spaces.
+    Then rerun the `formatter:format` maven command which will remove these spaces.
 
     ![images/formatting-code-pb-api.png](images/formatting-code-pb-api.png)
 
